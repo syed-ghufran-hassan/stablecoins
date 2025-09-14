@@ -1148,3 +1148,4 @@ Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob
 ## Deployment Links
 
 https://sepolia.etherscan.io/address/0x7b623EBD8047Ca3391A8731dD2AA2c926B0E4E52 - MyUSDEngine
+https://stablecoins-nextjs-bn2x.vercel.app/ - FE deployment
